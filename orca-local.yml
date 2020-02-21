@@ -1,3 +1,0 @@
-script:
-  master: my-jenkins-master
-  job: spin-script
